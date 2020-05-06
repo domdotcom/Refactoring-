@@ -55,7 +55,6 @@ article {
     display: inline-block;
     margin-left: 20px;
 }
-
 aside {
     margin-right: 20px;
     padding: 50px 20px;
@@ -80,13 +79,13 @@ footer {
     background-position: center;
 }
 
-.float-left {
+.floatLeft {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
-.float-right {
+.floatRight {
     float: right;
     margin-left: 25px;
     max-height: 200px;
